@@ -3,5 +3,7 @@ Where did your browser redirect when you submitted the form? Why?
 It went to another page to display the webpage from my local rep
 
 What is your querystring?
-A query string commonly includes fields added to a base URL by a Web browser or other client application
+https://gu-web-dev-2024.github.io/participation-3-more-html-d-olivares/submission.html?name=s&email=hh%40hh&message=n&interests=coding&interests=sports
+
+It contains all of the widgets that I clicked and answered. 
 
