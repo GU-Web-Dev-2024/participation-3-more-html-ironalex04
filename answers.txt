@@ -1,0 +1,7 @@
+What happened?
+Where did your browser redirect when you submitted the form? Why?
+It went to another page to display the webpage from my local rep
+
+What is your querystring?
+A query string commonly includes fields added to a base URL by a Web browser or other client application
+
